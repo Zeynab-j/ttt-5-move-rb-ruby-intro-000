@@ -6,13 +6,9 @@ require_relative '../lib/move.rb'
 
 def display_board
    puts row = ["   " "|" "   " "|" "   "]
-   puts separator = "-----------"
+   puts  = "-----------"
    puts row
-   puts separator
+   puts  = "-----------"
    puts row
  end
 
-
-[“ ”, “ ”, “ ”, “ ”, “ ”, “ ”, “ ”, “ ”, “ ”,]
-
-puts board = [' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ']
